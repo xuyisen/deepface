@@ -17,4 +17,8 @@ benchmarks/results
 benchmarks/outputs
 benchmarks/dataset
 benchmarks/lfwe
-venv
+venv# Shell redirection artifacts
+=[0-9]*
+>[0-9]*
+*.tmp
+*.log
